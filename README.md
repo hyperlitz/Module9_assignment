@@ -43,7 +43,7 @@ For questions or feedback, you can reach me through:
 
 ## Walkthrough Video
 
-[Link to your walkthrough video](https://www.example.com)
+[Link to your walkthrough video](./assets/images/video.webm)
 
 ## Screenshots
 

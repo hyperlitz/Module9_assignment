@@ -1,7 +1,7 @@
-# module9_assignemt
+# Read me Generator
   
   ## Description
-  Readme Generator Via Inquirer
+  README Generator Via Inquirer
   
   ## Table of Contents
   - [Installation](#installation)
@@ -15,18 +15,18 @@
   npm i inquirer@8.2.4
   
   ## Usage
-  Readme File automation
+  To automate read me.
   
   ## License
    - No license.
   
   ## Contributing
-  All Files
+  Entire Files
   
   ## Tests
-  Node "JS File"
+  node "Js file"
   
   ## Questions
-  GitHub: [hyperlitz](https://github.com/hyperlitz)
-  Email: litobanano@yahoo.com
+  GitHub: [example username](https://github.com/example username)
+  Email: example@example.com
   
